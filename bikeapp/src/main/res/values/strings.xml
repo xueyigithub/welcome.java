@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">骑车宝</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_Jinhua">金华</string>
+    <string name="action_Hangzhou">杭州</string>
+    <string name="action_Ningbo">宁波</string>
+    <string name="action_Wenzhou">温州</string>
+    <string name="action_Shaoxing">绍兴</string>
+    <string name="action_Huzhou">湖州</string>
+    <string name="action_Jiaxing">嘉兴</string>
+    <string name="action_Quzhou">衢州</string>
+    <string name="action_Taizhou">台州</string>
+    <string name="action_Lishui">丽水</string>
+    <string name="action_Zhoushan">舟山</string>
+
+
+
+
+    <string name="action_about">关于</string>
+
+    <string name="title_activity_modify">ModifyActivity</string>
+    <string name="title_activity_person_info">PersonInfoActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="title_activity_singles_campus_news">SinglesCampusNews</string>
+    <string name="title_activity_single_campus_news">SingleCampusNewsActivity</string>
+    <string name="title_activity_boundary">BoundaryActivity</string>
+    <string name="title_activity_main2">主界面</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="tab_menu_alert">发现</string>
+    <string name="tab_menu_profile">金华天气</string>
+    <string name="tab_menu_pay">我的</string>
+
+    <string name="title_activity_jump_media">骑车宝</string>
+    <string name="title_activity_schedule">ScheduleActivity</string>
+    <string name="title_activity_test">TestActivity</string>
+
+
+
+
+</resources>

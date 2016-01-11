@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/ly_tab_bar"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/bg_white"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:drawablePadding="3dp"
+            android:gravity="center"
+            android:padding="5dp"
+            android:background="@drawable/tab_menu_bg"
+            android:textColor="@drawable/tab_menu_text"
+            android:textSize="16sp"
+
+            android:drawableTop="@drawable/tab_menu_channel"
+            android:id="@+id/txt_channel"
+            android:text="校内新闻"
+            />
+
+        <TextView
+            android:id="@+id/txt_better"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/tab_menu_bg"
+            android:drawablePadding="3dp"
+            android:drawableTop="@drawable/tab_menu_better"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="校外新闻"
+            android:textColor="@drawable/tab_menu_text"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/ly_tab_bar"
+        android:id="@+id/ly_content">
+    </FrameLayout>
+
+</LinearLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bike2app/bike2app.iml" filepath="$PROJECT_DIR$/../bike2app/bike2app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bikeapp.iml" filepath="$PROJECT_DIR$/bikeapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../welcome.java.iml" filepath="$PROJECT_DIR$/../welcome.java.iml" />
+    </modules>
+  </component>
+</project>
